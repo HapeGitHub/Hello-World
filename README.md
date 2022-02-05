@@ -13,6 +13,12 @@ UPDATE_20220205:
     (Bei mir /media/sf_ABLAGE_WIN_LINUX/github_clones/clone_1/)
     - dann erste Programme schreiben:
 
+    git am linux rechner einrichten:
+    Run
+    git config --global user.email "you@example.com"
+    git config --global user.name "Your Name"
+
+
 
 Schritt 1: Erstes lauffähiges Beispiel auf Git-Hub bringen...
 
